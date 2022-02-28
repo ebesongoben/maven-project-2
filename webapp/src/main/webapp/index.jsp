@@ -21,7 +21,7 @@
 <body>
 <div class="header">
   <h1>Sample Java Webapp</h1>
-  <p>Hello Amazing Group 4, money is difficult to get ohh!</p>
+  <p>Hello Amazing Group 4, greetings to you all!</p>
 </div>
 </body>
 </html>
